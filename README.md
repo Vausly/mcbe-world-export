@@ -5,4 +5,4 @@ Note: Activate this resource pack on global resource in settings, this resource 
 
 Click this link to download quickly: http://p.vausly.com/0vz
 
-
+Copy this link to share this repo: https://git.new/world-export
