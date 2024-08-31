@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This resource pack used to show the world exporting button on mobile devices (Android & iOS).",
+        "name": "World Export Button",
+        "uuid": "133780a1-2ddf-4aa7-a162-a88b4a47535d",
+        "version": [0, 0, 0],
+        "min_engine_version": [ 1, 21, 0 ]
+    },
+    "modules": [
+        {
+            "description": "vanilla",
+            "type": "resources",
+            "uuid": "85cfdd6a-b9fc-47c4-89aa-4bad4ca79fa3",
+            "version": [0, 0, 0]
+        }
+    ]
+}
